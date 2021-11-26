@@ -24,7 +24,6 @@ def fun(list1):
     print(bull,"bull")
     if bull==5:
         print("you are winner")
-    cow=5-(bull+not1)
     print(cow,"cow")
     print(not1,"not a secret number")
 
